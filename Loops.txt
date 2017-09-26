@@ -1,0 +1,29 @@
+A for loop iterates a block of code repeatedly until the condition is false.
+for(declare variable; conditional; increments)
+	{
+		
+	}
+The first step of a for loop is to declare and initialize a variable
+Second step is to add a condition
+Third is to add an increment/decrement to the variable
+if you want to modify an element, use a for loop
+if a for loop doesn't have an initialization or condition then the loop will be infinite
+You can exit the loop by using break;
+You can nest a loop inside another loop
+a for loop can use a variable with any number data type
+for loops are useful for repeating arrays
+
+A foreach loop repeats a group of statements until all the statements have been repeated.
+foreach loops are best used for arrays
+foreach loops through a collection one by one until it has gone through the whole collection
+foreach(variable in collection)
+	{
+	
+	}
+break can be used to break out of the loop
+you can exit a foreach loop by using goto, return, or throw
+the foreach loop keeps a number count of elements in the array
+known as the easiest and least error prone loop
+useful for displaying items one by one
+often used with IEnumerable/IEnumerable<T> 
+if continue is used in a foreach loop then the script will skip the remaining code in the body and go to the next iteration
