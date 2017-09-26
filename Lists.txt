@@ -1,0 +1,11 @@
+Lists are similar to arrays except they are dynamic.
+Lists need to have the using System.Collections.Generic; at the top of the script
+You declare the list by writing List<>
+name.Add()
+A list holds variables in a certain order
+Lists have a dynamic size while arrays have a fixed size
+Arrays can be added to a list with the AddRange function
+Remove can be used to remove an item from a list
+RemoveAt can be used to specify the item you want to remove
+AddRange can join lists together
+Lists can easily be used with loops
