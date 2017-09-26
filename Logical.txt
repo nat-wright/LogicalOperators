@@ -1,0 +1,11 @@
+A logical operator is a symbol that indicates a certain operation.
+| Logical OR Operator
+& Logical AND Operator
+&& Conditional AND operator
+|| Conditional OR operator
+! Conditional NOT operator
+&& means if both quantities of the operation are not zero then the function is true
+|| means that if either of the two quantities is not zero then the function is true
+! makes the function the opposite, if the function is true then ! makes it false and vis versa
+^ Logical XOR Operator
+^ are used with integral types and bool variables
